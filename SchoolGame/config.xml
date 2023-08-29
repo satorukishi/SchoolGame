@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <player life="2" situation="1" />
+  <questions>
+    <question text="I have many friends because...">
+      <answer>I don't like to read books</answer>
+      <answer correct="1">I like to speak with my friends very much</answer>
+      <answer>I work until five thirty</answer>
+      <answer>He comes to school</answer>
+      <answer>We eat cheese, but we don't eat bread</answer>
+    </question>
+    <question text="I read good Spanish books because...">
+      <answer>I write an email</answer>
+      <answer>You have to go to the park</answer>
+      <answer>I need to study English</answer>
+      <answer>I don't know how to speak French</answer>
+      <answer correct="1">I want to go to Spain</answer>
+    </question>
+    <question text="We want to come to school next class because...">
+      <answer>She wants to study English at Wizard</answer>
+      <answer>We don't know how to write an email to your boss</answer>
+      <answer>They have many homeworks</answer>
+      <answer correct="1">We want to study with the teacher</answer>
+      <answer>We understand English</answer>
+    </question>
+    <question text="I need to work by before dinner because...">
+      <answer>They go to Germany on Christmas</answer>
+      <answer>I have to lunch at two o'clock every day</answer>
+      <answer correct="1">My wife wants to have dinner with me</answer>
+      <answer>I like to play the guitar in the morning</answer>
+      <answer>They want to have a snack with the boss</answer>
+    </question>
+    <question text="I need to go to the park after lunch because...">
+      <answer>I need to write a letter to my girlfriend</answer>
+      <answer>I like to read a magazine with my manager</answer>
+      <answer>You stay in the office in the morning</answer>
+      <answer correct="1">I need to play soccer with my friends this afternoon</answer>
+      <answer>They know how to play basketball</answer>
+    </question>
+    <question text="I go to the USA on Christmas because...">
+      <answer correct="1">My father lives there</answer>
+      <answer>My family want to eat some ice cream on Christmas</answer>
+      <answer>My family wants to eat some ice cream on Christmas</answer>
+      <answer>My mother likes to eat pasta on weekends</answer>
+      <answer>My mom doesn't likes to stay in Brazil on Christmas</answer>
+    </question>
+    <question text="I don't eat chocolate on Easter because...">
+      <answer>I live near your house</answer>
+      <answer>I come from England</answer>
+      <answer>My cousin likes to eat pasta very much</answer>
+      <answer>I need to study Chinese tomorrow morning</answer>
+      <answer correct="1">I eat my chocolate before Easter</answer>
+    </question>
+    <question text="He plays the violin very well because...">
+      <answer>He studies at Wizard</answer>
+      <answer>He stays home every day</answer>
+      <answer>She speaks with my friends</answer>
+      <answer>They know how to play the piano, too</answer>
+      <answer correct="1">He has a good teacher</answer>
+    </question>
+    <question text="I get up early this time because...">
+      <answer>I need to come home by seven p.m.</answer>
+      <answer>We like to have breakfast with you</answer>
+      <answer>They understand German</answer>
+      <answer>He knows how to spell my name</answer>
+      <answer correct="1">I have to go to the office by fifteen to eight a.m.</answer>
+    </question>
+    <question text="I _____ you today because...">
+      <answer>I like you</answer>
+      <answer>Study to / we have a review</answer>
+      <answer correct="1">Play chess with / you know how to play it very well</answer>
+      <answer>I want to go to the movies with you / stay</answer>
+      <answer>work / my boss is a good boss</answer>
+    </question>
+    <question text="I come to _____ because...">
+      <answer correct="1">the USA / I want to know the Disney World park</answer>
+      <answer>I wants to eat Japanese food / Japan</answer>
+      <answer>USA / I want to buy many things</answer>
+      <answer>School / it's four a.m.</answer>
+      <answer>here / I like to play with you</answer>
+    </question>
+    <question text="____ they ____ tennis when ____ have time?">
+      <answer>Does / plays / do they </answer>
+      <answer>Do / plays / they</answer>
+      <answer>Does / play / they</answer>
+      <answer correct="1">Do / play / they</answer>
+      <answer>Do / play / do they</answer>
+    </question>
+  </questions>
+</config>
